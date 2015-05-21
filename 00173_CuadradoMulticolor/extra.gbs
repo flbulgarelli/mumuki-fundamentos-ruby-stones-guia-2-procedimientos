@@ -1,0 +1,18 @@
+program {
+    PonerCuadradoMulticolor4()
+}
+
+procedure PonerUnaDeCada() {
+    Poner(Rojo) ; Poner(Verde) ; Poner(Azul) ; Poner(Negro)
+}
+
+procedure MoverOeste3() {
+    repeat(3) { Mover(Oeste) }
+}
+
+procedure PonerLineaMulticolor4() {
+    PonerUnaDeCada() ; Mover(Este)
+    PonerUnaDeCada() ; Mover(Este)
+    PonerUnaDeCada() ; Mover(Este)
+    PonerUnaDeCada() ; MoverOeste3()
+}
