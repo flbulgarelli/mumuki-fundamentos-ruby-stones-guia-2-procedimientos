@@ -1,0 +1,12 @@
+initial_board: |
+    GBB/1.0
+    size 7 2
+    head 0 0
+    
+final_board: |
+    GBB/1.0
+    size 7 2
+    cell 0 0 Negro 1
+    cell 3 0 Negro 1
+    cell 6 0 Negro 1
+    head 0 0

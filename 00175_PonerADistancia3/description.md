@@ -1,0 +1,1 @@
+Utilizando `Mover3`, escribí un procedimiento `PonerADistancia3` que reciba un _color_ y una _direccion_, y ponga una pelotita de ese color 3 lugares en la dirección especificada.

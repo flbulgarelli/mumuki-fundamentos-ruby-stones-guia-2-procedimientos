@@ -1,0 +1,10 @@
+procedure PonerLinea2(color) {
+    Poner(color) ; Mover(Este)
+    Poner(color) ; Mover(Oeste)
+}
+
+procedure DibujarMacetero(color) {
+    PonerLinea2(color)
+    Mover(Norte) ; PonerLinea2(color)
+    Mover(Sur)
+}
