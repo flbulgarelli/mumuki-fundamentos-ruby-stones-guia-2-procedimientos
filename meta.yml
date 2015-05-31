@@ -1,6 +1,6 @@
 ---
 locale: es
-language: gobstones
+language: ruby-stones
 original_id_format: '%05d'
 order:
 - 170

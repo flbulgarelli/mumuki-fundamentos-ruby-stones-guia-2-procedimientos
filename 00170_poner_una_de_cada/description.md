@@ -1,0 +1,1 @@
+Escribí un procedimiento `poner_una_de_cada` que ponga una bolita de cada color en la celda actual.

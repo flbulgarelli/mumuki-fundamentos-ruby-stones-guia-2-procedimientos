@@ -1,1 +1,0 @@
-Escribí un procedimiento `MoverOeste3` que mueva el cabezal tres celdas hacia el Oeste.

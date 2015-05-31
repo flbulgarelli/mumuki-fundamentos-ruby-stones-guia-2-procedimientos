@@ -1,0 +1,1 @@
+Escribí un procedimiento `mover_oeste_3!` que mueva el cabezal tres celdas hacia el Oeste.
